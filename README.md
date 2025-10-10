@@ -1,5 +1,8 @@
 To keep URLs as short as possible, abbreviations have been used where possible.
 
+Path to images:  
+`https://misselby.github.io/lb_np/<nameOfFile>`  
+
 ***lbondo userlookup***  
 H = Heads
 
