@@ -20,4 +20,5 @@ tm = the meadow
 tw = the workshop  
 
 ***plushie gallery***  
+pg = plushie gallery  
 
