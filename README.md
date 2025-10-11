@@ -8,6 +8,8 @@ H = Heads
 
 ***petpet gallery***  
 nb = nav banner  
+ob = orientation banner  
+
 aq = aquarium  
 av = aviary  
 cc = caves and caverns  
