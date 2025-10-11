@@ -9,6 +9,7 @@ H = Heads
 ***petpet gallery***  
 nb = nav banner  
 ob = orientation banner  
+bg = background  
 
 aq = aquarium  
 av = aviary  
