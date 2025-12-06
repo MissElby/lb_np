@@ -6,11 +6,13 @@ Path to images:
 ***lbondo userlookup***  
 H = Heads
 
-***petpet gallery***  
+**gallery generic**
 nb = nav banner  
 ob = orientation banner  
-bg = background  
+bg = background 
 
+***petpet gallery***  
+all = main  
 aq = aquarium  
 av = aviary  
 cc = caves and caverns  
@@ -27,4 +29,5 @@ tw = the workshop
 
 ***plushie gallery***  
 pg = plushie gallery  
+allpg = main  
 
