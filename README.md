@@ -30,4 +30,10 @@ tw = the workshop
 ***plushie gallery***  
 pg = plushie gallery  
 allpg = main  
-
+bc = basic colours  
+fz = fuzzles  
+g-e = games and events  
+nc = neopia characters  
+pi = plushie items  
+pp = petpets  
+p-s = painted or special  
